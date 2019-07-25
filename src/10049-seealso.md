@@ -18,4 +18,4 @@ In addition, Usenix SAGE (now LISA) used to have a <sage-edu@usenix.org>
 mailing list, but I don't know if that is still active. LOPSA has
 <https://lists.lopsa.org/cgi-bin/mailman/listinfo/educators>
 
-<http://www.verticalsysadmin.com/Report_on_programs_in_System_Administration__25-June-2012.pdf>
+[Report on programs in System Administration 25-June-2012.pdf](http://www.verticalsysadmin.com/Report_on_programs_in_System_Administration__25-June-2012.pdf)

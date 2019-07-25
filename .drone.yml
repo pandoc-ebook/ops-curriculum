@@ -26,3 +26,4 @@ steps:
     dest: 172.17.0.1::panbook
   depends_on:
   - build
+  - build-mobile

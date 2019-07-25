@@ -1,0 +1,16 @@
+---
+title: 运维工程师课程
+#subtitle: 副标题
+author:          # 作者（数组）
+  - Ops School
+date: \today     # 日期
+lof: true        # 是否生成插图列表页
+lot: true        # 是否生成表格列表页
+homepage: https://github.com/pandoc-ebook/ops-curriculum
+publisher: PanBook       # epub用
+rights: © 2019 Ops School, CC BY 3.0 Unported   # epub用
+cover-image: images/cover.png    # epub用
+# 不引用，但是显示在参考文献列表里。通配符 @* 表示全部在列表里显示  
+#nocite: |
+#  @pandocManual,@foz
+...

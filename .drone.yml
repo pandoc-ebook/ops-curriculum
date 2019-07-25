@@ -11,6 +11,12 @@ steps:
   pull: if-not-exists
   commands:
   - panbook book --style=elegantbook -d
+
+- name: build-mobile
+  image: panbook:latest
+  pull: if-not-exists
+  commands:
+  - panbook book -V device:mobile -d
  
 - name: publish
   image: annprog/rsync:latest
